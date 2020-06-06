@@ -1,0 +1,8 @@
+Additional Instructions
+————————————————
+
+On the Google Drive folder you will find various GIFs, these are instructions on how to collect the Xpaths and Class IDs for the scraper. 
+These two attributes change according to every user, so you will need to do this before scraping a page as shown in the GIFs and add them to your function.
+
+We also have the .pkl files on the Google drive with the full combined posts and comments text there.
+
